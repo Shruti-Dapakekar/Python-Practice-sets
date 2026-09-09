@@ -1,8 +1,8 @@
-# friends=['Alice', 'Bob', 'Charlie', 'David', 'Eve',7,False]
-# print(friends)
-# print(friends[0])
-# friends[0]='Zoe'
-# print(friends[1:6])
-a=(1,2,3,4,5,1,7,1)
-print(a.count(1))
-print(a.index(1))
+#program to list 7 fruits in a list entered by the user
+
+fruits = []
+for i in range(7):
+    fruit = input("Enter the name of fruit {}: ".format(i + 1))
+    fruits.append(fruit)
+
+print("The list of fruits is:", fruits)
