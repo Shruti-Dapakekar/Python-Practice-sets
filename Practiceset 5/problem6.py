@@ -1,0 +1,15 @@
+# Create an empty dictionary. Allow 4 friends to enter their favorite language as value and use key as their names. Assume that the names are unique
+dict ={}
+a1= input("Enter your name:")
+b1= input("Enter your favorite language:")
+dict.update({a1:b1})
+a2= input("Enter your name:")
+b2= input("Enter your favorite language:")
+dict.update({a2:b2})
+a3= input("Enter your name:")
+b3= input("Enter your favorite language:")
+dict.update({a3:b3})
+a4= input("Enter your name:")
+b4= input("Enter your favorite language:")
+dict.update({a4:b4})
+print(dict)
