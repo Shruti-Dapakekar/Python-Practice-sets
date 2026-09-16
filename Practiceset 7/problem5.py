@@ -7,3 +7,8 @@ while (i<=a):
     i+=1
 
 print(sum)
+
+# using for loop
+# for i in range(1,a+1):
+#     sum += i
+# print(sum)
