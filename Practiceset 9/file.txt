@@ -1,0 +1,3 @@
+###### is a animal.
+animal is a ######
+###### is a mammal
