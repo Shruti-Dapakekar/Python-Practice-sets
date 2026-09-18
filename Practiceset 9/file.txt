@@ -1,3 +1,5 @@
-###### is a animal.
-animal is a ######
+###### is a Animal.
+Animal is a ######
 ###### is a mammal
+All Humans are very ##### ### ######
+and you are very #### ######
